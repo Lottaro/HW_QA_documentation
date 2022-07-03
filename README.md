@@ -4,7 +4,7 @@ ___
   
 **[Form testing checklist](https://docs.google.com/spreadsheets/d/1feItziyLBzfbEpRQTl3_MWXtbk8rGKqVhE0S9xu_6YM/edit#gid=0)**  
 ___
-## HW_Mobile  
+### HW_Mobile  
   
 1) Собрать ToDoList на эмуляторе  
 2) Сорать APK файл и запустить на живом девайсе  
